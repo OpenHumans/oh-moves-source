@@ -4,7 +4,7 @@
 
 This repository provides a `Django` application that interfaces both with the `Open Humans` API and the `Moves` API to collect GPS track data from `Moves` and uploading it into `Open Humans`. It is based on the https://github.com/OpenHumans/oh-data-demo-template repository.
 
-For a user the workflow is the following:
+AFor a user the workflow is the following:
 
 1. User goes to the website provided by this repo
 2. A user signs up/signs in with Open Humans and authorizes the `Moves` integration on `Open Humans`
